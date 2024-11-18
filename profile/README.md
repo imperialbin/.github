@@ -1,4 +1,4 @@
-![image](./header.png)
+![image](../header.png)
 # IMPERIAL
 Share code with anyone in a matter of seconds.
 
